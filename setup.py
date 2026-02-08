@@ -38,13 +38,13 @@ if len(argv) > 1 and argv[1] in ["bdist_wheel", "install", "develop"]:
     errors_compiler.start()
 
 setup(
-    name="stefano-Pyrogram",
-    version="2.0.110",
+    name="stefano-pyrogram",
+    version="2.1.0",
     description="Elegant, modern and asynchronous Telegram MTProto API framework in Python for users and bots",
     long_description=readme,
     long_description_content_type="text/markdown",
-    url="https://github.com/Sanji78/pyrogram",
-    download_url="https://github.com/Sanji78/pyrogram/releases/latest",
+    url="https://github.com/Sanji78/stefano-pyrogram",
+    download_url="https://github.com/Sanji78/stefano-pyrogram/releases/latest",
     author="Sanji78",
     author_email="stefano.giugliano78@gmail.com",
     license="LGPLv3",
@@ -73,8 +73,8 @@ setup(
     ],
     keywords="telegram chat messenger mtproto api client library python",
     project_urls={
-        "Tracker": "https://github.com/Sanji78/pyrogram/issues",
-        "Source": "https://github.com/Sanji78/pyrogram",
+        "Tracker": "https://github.com/Sanji78/stefano-pyrogram/issues",
+        "Source": "https://github.com/Sanji78/stefano-pyrogram",
         "Documentation": "https://docs.pyrogram.org",
     },
     python_requires="~=3.7",
