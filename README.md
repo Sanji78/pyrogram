@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/pyrogram/pyrogram">
+    <a href="https://github.com/Sanji78/stefano-pyrogram">
         <img src="https://raw.githubusercontent.com/pyrogram/artwork/master/artwork/pyrogram-logo.png" alt="Pyrogram" width="128">
     </a>
     <br>
@@ -15,10 +15,6 @@
     •
     <a href="https://docs.pyrogram.org/releases">
         Releases
-    </a>
-    •
-    <a href="https://t.me/pyrogram">
-        News
     </a>
 </p>
 
@@ -52,7 +48,7 @@ identity (bot API alternative) using Python.
 - **Ready**: Install Pyrogram with pip and start building your applications right away.
 - **Easy**: Makes the Telegram API simple and intuitive, while still allowing advanced usages.
 - **Elegant**: Low-level details are abstracted and re-presented in a more convenient way.
-- **Fast**: Boosted up by [TgCrypto](https://github.com/pyrogram/tgcrypto), a high-performance cryptography library written in C.  
+- **Fast**: Boosted up by [TgCrypto](https://github.com/Sanji78/stefano-tgcrypto), a high-performance cryptography library written in C.  
 - **Type-hinted**: Types and methods are all type-hinted, enabling excellent editor support.
 - **Async**: Fully asynchronous (also usable synchronously if wanted, for convenience).
 - **Powerful**: Full access to Telegram's API to execute any official client action and more.
